@@ -1,0 +1,89 @@
+<changelist name="Uncommitted_changes_before_rebase_[Changes]" date="1681118975350" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/index.pack.old" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/index.pack.old" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/index.pack.old" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/8.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/8.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/8.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/10.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/10.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/10.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/0.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/0.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/0.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/11.pack" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/index.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/index.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/index.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/7.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/7.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/7.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/1.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/1.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/1.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/4.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/4.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/4.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/3.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/3.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/3.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/2.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/2.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/2.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/5.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/5.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/5.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/12.pack" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/6.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/6.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/6.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/13.pack" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/14.pack" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/9.pack" />
+    <option name="AFTER_PATH" value=".angular/cache/15.2.5/angular-webpack/789665a1226c6adbb93e0afb4a61f35a356be9d0/9.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/9.pack" />
+  </binary>
+</changelist>

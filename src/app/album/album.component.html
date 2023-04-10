@@ -1,0 +1,14 @@
+<div class="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800">
+  <div class="container mx-auto p-4">
+    <div class="grid grid-cols-3 gap-4">
+      <h2 class="text-xl font-semibold text-green-500 col-span-3">Les chansons de l'album {{ album.title }}</h2>
+      <div *ngFor="let song of album.songs">
+        <div class="bg-gray-800 p-4 rounded">
+          <h5 class="text-lg font-semibold text-green-500">
+            <a [routerLink]="['/video-player', song.id]">{{ song.title }}</a>
+          </h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
