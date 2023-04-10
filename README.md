@@ -10,4 +10,4 @@ Pour obtenir plus d'aide sur Angular CLI, utilisez 'ng help' ou consultez la pag
 
 ## Informations
 
-Ce projet a été initialement réalisé dans le cadre de mes études, mais comme je l'ai trouvé intéressant, je souhaite poursuivre mon travail dessus pour le rendre encore plus pertinent pour les utilisateurs.
+Ce projet a été initialement réalisé dans le cadre de mes études, mais comme je l'ai trouvé intéressant, j'ai souhaité poursuivre mon travail dessus pour le rendre encore plus pertinent pour les utilisateurs.
